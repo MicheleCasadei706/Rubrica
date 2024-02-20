@@ -1,0 +1,9 @@
+﻿<Application x:Class="Casadei.Michele._4i.rubricaUnoAMolti.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Casadei.Michele._4i.rubricaUnoAMolti"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
